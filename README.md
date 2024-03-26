@@ -22,3 +22,5 @@ This repository will be available until April 28, 2024
 [W3C Programming](https://www.w3schools.com/r/default.asp)
 
 [Stats](https://r-statistics.co/)
+
+[Intro to R Advanced](https://cran.r-project.org/doc/manuals/r-release/R-intro.html)
