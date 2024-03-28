@@ -11,7 +11,9 @@ This repository will be available until April 28, 2024
 ## Links
 
 [R Markdown](http://rmarkdown.rstudio.com)
+
 [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+
 [R Studio Markdown](https://rmarkdown.rstudio.com/index.html)
 
 [Introduction 2 R](https://intro2r.com/) 
@@ -23,4 +25,7 @@ This repository will be available until April 28, 2024
 
 [Stats](https://r-statistics.co/)
 
+[Functional Programming](https://adv-r.hadley.nz/fp.html)
+
 [Intro to R Advanced](https://cran.r-project.org/doc/manuals/r-release/R-intro.html)
+
